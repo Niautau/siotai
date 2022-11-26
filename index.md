@@ -6,7 +6,7 @@ layout: home
 
 ## 網站紹介
 Chit ê網站是 **Tân Sió-tâi ê Blog**
-**Tân Sió-tâi ê Blog**
+
 
 
 
